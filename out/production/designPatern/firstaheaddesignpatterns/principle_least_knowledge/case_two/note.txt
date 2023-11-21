@@ -1,0 +1,3 @@
+1. Supongamos que tienes las siguientes tres clases: Cliente, Banco y CuentaBancaria. En este ejemplo, la clase Cliente interactúa con el banco y realiza transferencias entre cuentas. Sin embargo, el principio de "Least Knowledge" se rompe aquí, ya que la clase Cliente necesita conocer tanto al Banco como a la CuentaBancaria para realizar una transferencia.
+
+2. Para cumplir con el principio de "Least Knowledge", podríamos modificar la clase Cliente para que solo tenga conocimiento de su propia cuenta y no del banco:

@@ -1,0 +1,4 @@
+
+1. Supongamos que tienes una clase Car que necesita obtener el precio de un componente del motor de un objeto Engine y mostrarlo. En este caso, la clase Car tiene un alto acoplamiento con la clase Engine y conoce detalles internos innecesarios.
+
+2. En lugar de que la clase Car conozca directamente el precio del motor, podríamos utilizar un método de delegación o inyección de dependencias para reducir el acoplamiento y cumplir con el principio "Least Knowledge". Esto significa que Car no necesita conocer los detalles internos de Engine.

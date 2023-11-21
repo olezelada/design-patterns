@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡¾Ô´8¯ôùØ±1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿˆ …ıÿÿÿÿ8¯ôùØ±1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(¦¯³8¯ôùØ±1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(“–ï‹øÿÿÿÿ8¯ôùØ±1
+W
+java:S1161":Add the "@Override" annotation above this method signature(ØÑ½‹8ŒÍ·Ä¸1

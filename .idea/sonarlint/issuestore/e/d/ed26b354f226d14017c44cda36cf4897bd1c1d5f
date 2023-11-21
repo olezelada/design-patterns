@@ -1,0 +1,13 @@
+
+d
+java:S1854"BRemove this useless assignment to local variable "currentDisplay".(òì…Èùÿÿÿÿ8ş¿×“Ş/
+P
+java:S1481
+"4Remove this unused "forecastDisplay" local variable.(¤äÚ?8ş¿×“Ş/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÊ–§8ş¿×“Ş/
+U
+java:S1481"3Remove this unused "currentDisplay" local variable.(òì…Èùÿÿÿÿ8ş¿×“Ş/
+X	java:S125	"<This block of commented-out lines of code should be removed.(øÈŸ§8ş¿×“Ş/
+_
+java:S1854
+"CRemove this useless assignment to local variable "forecastDisplay".(¤äÚ?8ş¿×“Ş/
